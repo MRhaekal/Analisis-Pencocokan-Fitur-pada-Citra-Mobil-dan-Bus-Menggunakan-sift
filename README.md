@@ -1,5 +1,4 @@
-# Analisis-Pencocokan-Fitur-pada-Citra-Mobil-dan-Bus-Menggunakan-sift
-final project for viskom
+
 # Analisis Pencocokan Fitur pada Citra Mobil dan Bus Menggunakan SIFT
 
 Final project untuk mata kuliah Visi Komputer.  
